@@ -18,9 +18,9 @@ A collection of four deep learning models built from scratch in PyTorch, coverin
 │   └── CNN_for_CIFAR10.ipynb      # Convolutional NN — image classification (CIFAR-10)
 ├── RNN/
 │   ├── RNN_sentiment-analysis.ipynb  # Recurrent NN — sentiment classification (IMDB reviews)
-│   └── IMDB Dataset.csv
 └── README.md
 ```
+IMDB Dataset of 50K Movie Reviews (used by the RNN notebook, not committed to this repo) — download from Kaggle and place IMDB Dataset.csv in the RNN/ folder.
 
 ## Tech Stack
 
